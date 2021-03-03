@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/miniGames/static/css/main.22bedfd1.chunk.css",
+    "main.js": "/miniGames/static/js/main.b3c0c4dd.chunk.js",
+    "main.js.map": "/miniGames/static/js/main.b3c0c4dd.chunk.js.map",
+    "runtime-main.js": "/miniGames/static/js/runtime-main.aab0f034.js",
+    "runtime-main.js.map": "/miniGames/static/js/runtime-main.aab0f034.js.map",
+    "static/js/2.f53288f3.chunk.js": "/miniGames/static/js/2.f53288f3.chunk.js",
+    "static/js/2.f53288f3.chunk.js.map": "/miniGames/static/js/2.f53288f3.chunk.js.map",
+    "index.html": "/miniGames/index.html",
+    "static/css/main.22bedfd1.chunk.css.map": "/miniGames/static/css/main.22bedfd1.chunk.css.map",
+    "static/js/2.f53288f3.chunk.js.LICENSE.txt": "/miniGames/static/js/2.f53288f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab0f034.js",
+    "static/js/2.f53288f3.chunk.js",
+    "static/css/main.22bedfd1.chunk.css",
+    "static/js/main.b3c0c4dd.chunk.js"
+  ]
+}
